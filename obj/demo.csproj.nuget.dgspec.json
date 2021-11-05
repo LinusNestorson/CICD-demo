@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Utbildning\\CICD\\demo\\demo.csproj": {}
+    "d:\\Utbildning\\CICD\\demo\\demo.csproj": {}
   },
   "projects": {
-    "D:\\Utbildning\\CICD\\demo\\demo.csproj": {
+    "d:\\Utbildning\\CICD\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Utbildning\\CICD\\demo\\demo.csproj",
+        "projectUniqueName": "d:\\Utbildning\\CICD\\demo\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "D:\\Utbildning\\CICD\\demo\\demo.csproj",
+        "projectPath": "d:\\Utbildning\\CICD\\demo\\demo.csproj",
         "packagesPath": "C:\\Users\\Linus\\.nuget\\packages\\",
-        "outputPath": "D:\\Utbildning\\CICD\\demo\\obj\\",
+        "outputPath": "d:\\Utbildning\\CICD\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v2RvL3h80hyoX/zhF4RlSy6TY+kzCPdBENtVWWAzCLDNwsPq9ylbRJzBpOGCA0dujRiwbvEy5poEDIY0NXQThg==",
+  "dgSpecHash": "ecy3fabpLuV359o0ATmv2MH20EuXlMSXz84kwu53o8yvbnHPt7EEigWUmdNmpiQWdlI7w/f7QtyqH57D2yGobw==",
   "success": true,
-  "projectFilePath": "D:\\Utbildning\\CICD\\demo\\demo.csproj",
+  "projectFilePath": "d:\\Utbildning\\CICD\\demo\\demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Linus\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Linus\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
